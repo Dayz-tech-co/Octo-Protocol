@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/32-sponsorship-spend",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/32-sponsorship-spend": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/32-sponsorship-spend",
+    "origin"
+  ]
+}
